@@ -13,8 +13,6 @@ streams/haber_turk.m3u8
 streams/halk_tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sozcu_TV_logo.png" group-title="Haber",Sozcu TV
 streams/sozcu_tv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/TGRT_Haber_logo.png" group-title="Haber",TGRT Haber
-streams/tgrt_haber.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Flash_Haber_TV_logo.png" group-title="Haber",Flash Haber
 streams/flash_haber.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Haber_Global_logo.png" group-title="Haber",Haber Global
@@ -23,12 +21,16 @@ streams/haber_global.m3u8
 streams/tv_100.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Bloomberg_HT_logo.png" group-title="Ekonomi",Bloomberg HT
 streams/bloomberg_ht.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Bengu_Turk_logo.png" group-title="Haber",Bengu Turk
+streams/bengu_turk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Ulusal_Kanal_logo.png" group-title="Haber",Ulusal Kanal
 streams/ulusal_kanal.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Ulke_TV_logo.png" group-title="Haber",Ulke TV
 streams/ulke_tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Ekoturk_logo.png" group-title="Ekonomi",Eko Turk
 streams/eko_turk.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/24_TV_logo.png" group-title="Haber",24 TV
+streams/24_tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/A_Spor_logo.png" group-title="Spor",A Spor
 streams/a_spor.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HT_Spor_logo.png" group-title="Spor",HT Spor
