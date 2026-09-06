@@ -43,7 +43,15 @@ https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/m
 https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/a_spor.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HT_Spor_logo.png" group-title="Spor",HT Spor
 https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/ht_spor.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TVNET_logo.png" group-title="Haber",TV Net
+https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/tv_net.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/BeIN_Sports_Haber_logo.png" group-title="Spor",Bein Spor Haber
 https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/bein_spor_haber.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/CNBC-e_2024_logo.png" group-title="Genel",CNBC-e
 https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/cnbce.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kKB21USxEgVZCcJsgoXGh1qx1DQgSgfn6hz3r-1HDv9dI=s160-c-k-c0x00ffffff-no-rj" group-title="Filmler",Kemal Sunal Filmleri
+https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/kemal_sunal_filmleri.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/m-w-Y2UkI5ZiwSrVWoYU3vbGBhuJThjOVPivWw0RUntNoDT5IRv6bkRXNr_rNGUcufcbSbgUqeY=s160-c-k-c0x00ffffff-no-rj" group-title="Rahatlama",Şomine TV
+https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/somine_tv.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s160-c-k-c0x00ffffff-no-rj" group-title="Filmler",Yesilcam TV
+https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/yesilcam_tv.m3u8
